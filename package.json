@@ -1,0 +1,19 @@
+{
+  "name": "oc-event",
+  "version": "1.0.0",
+  "description": "Event Utilities",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+   "dependencies": {   
+  },
+  "keywords": [
+	"event" ,
+    "nodejs",
+    "mongodb",
+    "Utilities"
+  ],
+  "author": "Özgür Çimen",
+  "license": "ISC"
+}
